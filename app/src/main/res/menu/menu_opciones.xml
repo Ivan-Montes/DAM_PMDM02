@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/submenu"
+        android:icon="@drawable/flamenca"
+        android:title="@string/ajustes"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/instrucciones"
+                android:title="@string/intrucciones" />
+            <item
+                android:id="@+id/start"
+                android:title="@string/start" />
+            <item
+                android:id="@+id/conf"
+                android:title="@string/conf" />
+            <item
+                android:id="@+id/player_select"
+                android:title="@string/player_select" />
+        </menu>
+    </item>
+</menu>

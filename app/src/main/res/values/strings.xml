@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Encuentra HipoteMinas!!!</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="intrucciones">Instrucciones</string>
+    <string name="start">Comenzar Juego</string>
+    <string name="conf">Configurar el Juego</string>
+    <string name="player_select">Selecciona Personaje</string>
+    <string name="txt_instrucciones">El juego es tipo buscaminas:
+    Cuando pulsas en una casilla, sale un número que identifica cuántas hipotenochas hay alrededor. Ten cuidado porque si pulsas en una casilla que tenga una hipotenocha escondida, perderás. Si crees o tienes la certeza de que hay una hipotenocha, haz un click largo sobre la casilla para señalarla. No hagas un click largo en una casilla donde no hay una hipotenocha porque perderás. Ganas una vez hayas encontrado todas las hipoteminas.
+    </string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="no">NOPE</string>
+    <string name="init">Comenzamoooosss!!!</string>
+    <string name="fin_pisaste">Fin de partida, pisaste una hipotemina!!</string>
+    <string name="fin_nada">Fin de partida, NADA de hipotemina ahí!!</string>
+    <string name="fin_exito">EXITO ROTUNDO, HAS DESCUBIERTO TODAS LAS MINAS</string>
+    <string name="discover">Descubriste a una hipotemina!!</string>
+    <string name="elige_personaje">Elige personaje</string>
+    <string name="descrip_elegir_personaje">View para elegir personaje</string>
+    <string name="descrip_fila_personaje">View para elegir personaje</string>
+</resources>
