@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher_hipotenocha"
+        android:icon="@mipmap/ic_launcher_hipo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_hipotenocha_round"
+        android:roundIcon="@mipmap/ic_launcher_hipo_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MontesEstebanIvan_PMDM02_Tarea">
         <activity
